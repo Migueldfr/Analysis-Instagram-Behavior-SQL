@@ -8,7 +8,7 @@ Applying the Knowledge during my Bootcamp and data analysis, we could show insig
 
 --------------------
 
-The most important query: 
+The most useful query: 
 
 ```sql
 SELECT tableA.total_A AS 'Number Of Users who never commented',
